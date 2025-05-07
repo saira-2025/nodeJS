@@ -1,0 +1,25 @@
+[
+    {
+        "id" : 1,
+        "niveau" : "Petite section",
+        "nbrclasse" : 1 ,
+        "effectiftotal" : 25
+    },
+ 
+    {
+        "id" : 2,
+        "niveau" : "Moyenne section",
+        "nbrclasse" : 1,
+        "effectiftotal" : 30
+    },
+ 
+    {
+        "id" : 3,
+        "niveau" : "Grande section",
+        "nbrclasse" : 1,
+        "effectiftotal" : 28
+    }
+ 
+ 
+]
+ 
